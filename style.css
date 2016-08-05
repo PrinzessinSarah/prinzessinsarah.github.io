@@ -1,0 +1,11 @@
+#navigation {
+  float: left;
+  margin-right:150px;
+}
+#navigation a{
+  color:magenta;
+}
+
+body {
+  background-color:#ffffe6;
+}
